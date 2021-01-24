@@ -1,0 +1,29 @@
+
+#head{
+	padding-top: 50px;
+}
+#head a{
+	margin-left: 20px;
+	text-decoration: none;
+	font-size: 70px;
+	text-decoration-color: none;
+}
+#cart{
+	width: 50px;
+	height: auto;
+	position: relative;
+	top: -60px;
+	left: 800px;
+}
+#behind{
+	text-align: center;
+	padding-bottom: 20px;
+}
+#behind a{
+	text-decoration: none;
+	font-size: 50px;
+	color: black;
+}
+#pics{
+	text-align: center;
+}
