@@ -9,7 +9,7 @@
 	margin-left: 220px;
 	text-decoration: none;
 	font-size: 75px;
-	color: #423149;
+	color: red;
 	
 	
 
@@ -50,7 +50,7 @@
 	top: 1020px;
 }
 #footer{
-	background: #F54D45;
+	background: red;
 	padding-bottom: 200px;
 	margin-left: -60px;
 	margin-right: -60px;
