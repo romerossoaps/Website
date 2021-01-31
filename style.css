@@ -6,8 +6,8 @@
 	margin-left: 20px;
 	text-decoration: none;
 	font-size: 70px;
-	text-decoration-color: none;
-	color: #EC33FF;
+	text-decoration-color: #EC33FF;
+
 }
 #cart{
 	width: 50px;
@@ -32,6 +32,6 @@
 	width: 80px;
 	height: auto;
 	position: relative;
-	left: 850px;
+	left: 860px;
 	top: -85px;
 }
