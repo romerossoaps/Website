@@ -1,10 +1,12 @@
 
 #head{
 	padding-top: 60px;
-	background: lavender
+	background: lavender;
+	margin-left: -60px;
+	margin-right: -60px;
 }
 #head a{
-	margin-left: 125px;
+	margin-left: 220px;
 	text-decoration: none;
 	font-size: 75px;
 	color: #423149;
@@ -33,16 +35,16 @@
 	text-align: center;
 }
 #whatsapp{
-	width: 80px;
+	width: 85px;
 	height: auto;
 	position: relative;
 	left: 870px;
 	top: 1030px;
 }
 #instagram{
-	width: 72px;
+	width: 75px;
 	height: auto;
 	position: relative;
-	left: 870px;
+	left: 865px;
 	top: 1025px;
 }
