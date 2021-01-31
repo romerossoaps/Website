@@ -1,13 +1,14 @@
 
 #head{
 	padding-top: 60px;
+	background: lavender
 }
 #head a{
 	margin-left: 125px;
 	text-decoration: none;
 	font-size: 75px;
 	color: #423149;
-	background: lavender;
+	
 	
 
 }
