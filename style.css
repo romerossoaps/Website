@@ -50,4 +50,8 @@
 }
 #footer{
 	background: lavender;
+	padding-bottom: 200px;
+	margin-left: -60px;
+	margin-right: -60px;
+	margin-top: 10px;
 }
