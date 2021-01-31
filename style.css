@@ -1,11 +1,11 @@
 
 #head{
-	padding-top: 50px;
+	padding-top: 60px;
 }
 #head a{
-	margin-left: 20px;
+	margin-left: 125px;
 	text-decoration: none;
-	font-size: 70px;
+	font-size: 75px;
 	color: #423149;
 
 }
@@ -14,16 +14,17 @@
 	height: auto;
 	position: relative;
 	top: -60px;
-	left: 800px;
+	left: 80px;
 }
 #behind{
 	text-align: center;
 	padding-bottom: 20px;
 }
 #behind a{
+	text-align: center;
 	text-decoration: none;
-	font-size: 50px;
-	color: black;
+	font-size: 60px;
+	color: #423149;
 }
 #pics{
 	text-align: center;
@@ -32,6 +33,6 @@
 	width: 80px;
 	height: auto;
 	position: relative;
-	left: 860px;
+	left: 870px;
 	top: -85px;
 }
