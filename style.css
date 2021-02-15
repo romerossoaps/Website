@@ -1,0 +1,53 @@
+#head{
+	padding-top: 60px;
+	background: lightblue;
+	margin-left: -60px;
+	margin-right: -60px;
+}
+#head a{
+	margin-left: 220px;
+	text-decoration: none;
+	font-size: 75px;
+	color: #423149;
+}
+
+#title a{
+	text-align: center;
+	text-decoration: none;
+	font-size: 34px;
+	color: #423149;
+}
+#behind{
+	text-align: center;
+	padding-bottom: 40px;
+}
+#behind a{
+	text-align: center;
+	text-decoration: none;
+	font-size: 34px;
+	color: #423149;
+}
+#pics{
+	text-align: center;
+	margin-left: 1px;
+}
+#whatsapp{
+	width: 90px;
+	height: auto;
+	position: relative;
+	left: 798px;
+	top: 10px;
+}
+#instagram{
+	width: 90px;
+	height: auto;
+	position: relative;
+	left: 800px;
+}
+#footer {
+	background: lightblue;
+	padding-bottom: 200px;
+	margin-left: -60px;
+	margin-right: -60px;
+	margin-top: 10px;
+}
